@@ -1,0 +1,97 @@
+
+
+
+Car Plate Number: ABB1234
+Enter Datetime: Tue Aug 22 7:30:00 2023
+Exit Datetime: Thu Aug 24 10:46:46 2023
+Total Fare: 156.85
+
+
+Car Plate Number: ABC123
+Enter Datetime: Wed Aug 23 15:15:00 2023
+Exit Datetime: Sat Aug 26 13:46:48 2023
+Total Fare: 154.30
+
+
+Car Plate Number: ABC124
+Enter Datetime: Wed Aug 23 20:30:00 2023
+Exit Datetime: Fri Aug 25 8:22:28 2023
+Total Fare: 75.60
+
+
+Car Plate Number: ABC133
+Enter Datetime: Sat Aug 19 7:40:00 2023
+Exit Datetime: Wed Aug 23 15:24:50 2023
+Total Fare: 246.68
+
+
+Car Plate Number: ABC143
+Enter Datetime: Sat Aug 19 10:43:24 2023
+Exit Datetime: Sun Aug 20 11:43:24 2023
+Total Fare: 25.00
+
+
+Car Plate Number: ABC153
+Enter Datetime: Sun Aug 20 19:16:32 2023
+Exit Datetime: Mon Aug 21 11:23:24 2023
+Total Fare: 7.63
+
+
+Car Plate Number: ABC163
+Enter Datetime: Wed Aug 23 6:33:00 2023
+Exit Datetime: Wed Aug 23 13:19:00 2023
+Total Fare: 13.81
+
+
+Car Plate Number: ABC173
+Enter Datetime: Thu Aug 24 7:45:00 2023
+Exit Datetime: -
+Total Fare: 0.00
+
+
+Car Plate Number: ABC183
+Enter Datetime: Thu Aug 24 14:21:00 2023
+Exit Datetime: -
+Total Fare: 0.00
+
+
+Car Plate Number: ABC223
+Enter Datetime: Tue Aug 22 10:46:46 2023
+Exit Datetime: -
+Total Fare: 0.00
+
+
+Car Plate Number: ABC323
+Enter Datetime: Wed Aug 23 22:32:00 2023
+Exit Datetime: -
+Total Fare: 0.00
+
+
+Car Plate Number: ABC423
+Enter Datetime: Thu Aug 24 12:51:00 2023
+Exit Datetime: -
+Total Fare: 0.00
+
+
+Car Plate Number: ABC523
+Enter Datetime: Fri Aug 25 18:11:00 2023
+Exit Datetime: -
+Total Fare: 0.00
+
+
+Car Plate Number: DSA1212
+Enter Datetime: Fri Aug 25 9:20:00 2023
+Exit Datetime: Fri Aug 25 21:52:44 2023
+Total Fare: 22.03
+
+
+Car Plate Number: SSS1921
+Enter Datetime: Tue Aug 22 15:30:00 2023
+Exit Datetime: -
+Total Fare: 0.00
+
+
+Car Plate Number: ZXC123
+Enter Datetime: Sat Aug 26 10:12:00 2023
+Exit Datetime: -
+Total Fare: 0.00

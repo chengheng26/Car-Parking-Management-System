@@ -1,0 +1,4 @@
+﻿  app.cpp
+c:\users\cheng\source\repos\carparking\carparking\app.cpp(369): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\cheng\source\repos\carparking\carparking\app.cpp(416): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CarParking.vcxproj -> C:\Users\cheng\source\repos\CarParking\Debug\CarParking.exe
